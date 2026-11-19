@@ -1,0 +1,21 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Environment variables and API keys
+.env
+.env.*
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Generated reports
+*.pdf
+
+# IDE files
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
