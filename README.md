@@ -25,12 +25,7 @@ It processes application logs, identifies potential incidents, categorizes their
 - **PDF Report Generation:** Generates downloadable incident reports containing analysis results and operational insights.
 - **Custom Log Upload:** Allows users to upload their own supported `.txt` log files for analysis.
 
-## Dashboard Preview
 
-<!-- Add your dashboard screenshot here -->
-<!-- Example: ![Dashboard](screenshots/dashboard.png) -->
-
-*Dashboard screenshot coming soon.*
 
 ## Technology Stack
 
